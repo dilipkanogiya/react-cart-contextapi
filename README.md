@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+# React useContext Task
+React useContext Task
+
+## Functionalities Required
+It needs to increase or decrease the per unit quantity, which should automatically update the total Quantity and Amount.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -67,9 +72,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# react-cart-contextapi
-React useContext Task
->>>>>>> d7248730fe3778e15847a434bda39336f4bded38
